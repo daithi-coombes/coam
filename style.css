@@ -1,0 +1,12 @@
+/*
+Theme Name:     COAM
+Theme URI:      http://github.com/daithi-coombes/coam
+Description:    COAM Theme
+Author:         Daithi Coombes
+Author URI:     http://david-coombes.com
+Template:       twentytwelve                 
+Version:        0.1.0
+*/
+
+/* load parent theme */
+@import url("../twentytwelve/style.css");
