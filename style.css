@@ -10,3 +10,9 @@ Version:        0.1.0
 
 /* load parent theme */
 @import url("../twentytwelve/style.css");
+
+/** header **/
+.site-header h1{
+	text-align: center;
+}
+/** end header **/
